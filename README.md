@@ -17,7 +17,7 @@ Proyek ini adalah aplikasi mobile sederhana yang mendemonstrasikan fungsionalita
 
 1.  **Clone repositori:**
     ```bash
-    git clone [https://github.com/Zekken23/mobile_api_fetch.git](https://github.com/Zekken23/mobile_api_fetch.git)
+    git clone https://github.com/dayywkd/tugas_lms.git
     cd mobile_api_fetch
     git checkout Task
     ```
